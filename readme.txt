@@ -1,2 +1,2 @@
-Git is aversion control system.
+Git is a distributed version conttol system
 Git is free software
